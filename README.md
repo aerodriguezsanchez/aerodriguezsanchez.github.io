@@ -4,9 +4,11 @@ permalink: "/about/"
 layout: page
 ---
 
-## Acerca de
+<!-- ## Acerca de -->
 
-Soy Alejandro. Me dedico a la docencia y la investigación. 
+Mi nombre es Alejandro, soy profesor, académico, e investigador dentro del área de la ingeniería mecánica y el análisis y la ingeniería de los materiales. A lo largo de mi carrera he tenido la oportunidad de practicar el diseño mecánico de estructuras y mecanismos (para motores de aeronaves y turbinas generadoras eléctricas), así como la investigación de nuevas técnicas para el análisis del comportamiento de materiales complejos, como las aleaciones metálicas (basadas en aluminio, titanio y acero), polímeros (elastómeros termoplásticos), y espumas poliméricas.
+
+Esta es mi página académica, por lo que aquí estaré subiendo algunas de mis clases, y las actualizaciones de las publicaciones más recientes.
 
 <!-- ## Features
 
