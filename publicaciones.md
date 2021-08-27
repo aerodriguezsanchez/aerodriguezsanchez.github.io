@@ -1,9 +1,10 @@
 ---
 title: "Publicaciones"
+permalink: "/publicaciones/"
 layout: page
 ---
 
-### Publicaciones en artículos listados en el Journal Citation Reports
+### Artículos listados en el Journal Citation Reports
 
 - [A numerical study of the effect of the thickness parameter on machining distortion for aluminum alloy plates](https://iopscience.iop.org/article/10.1088/2631-8695/ac1848/meta). Engineering Research Express (2021).
 - [A machine learning approach to estimate the strain energy absorption in expanded polystyrene foams](https://journals.sagepub.com/doi/abs/10.1177/0021955X211021014). Journal of Cellular Plastics (2021).
