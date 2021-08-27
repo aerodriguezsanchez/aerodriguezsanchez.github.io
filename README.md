@@ -10,13 +10,11 @@ Mi nombre es Alejandro, soy profesor, académico, e investigador dentro del áre
 
 Esta es mi página académica, por lo que aquí estaré subiendo contenido de clases y las actualizaciones de las publicaciones más recientes. Algunas ligas a otros espacios míos en la red son:
 
-      <ul>
-      <li><a href="https://twitter.com/_arods">Twitter</a></li>
-      <li><a href="https://github.com/aerodriguezsanchez">GitHub</a></li>
-      <li><a href="https://orcid.org/0000-0003-3397-5261">ORCiD</a></li> 
-      <li><a href="https://blogmateria.com">Mi blog personal: Blog materia</a></li>
-      <li><a href="https://scholar.google.com.mx/citations?user=eo-JXcoAAAAJ&hl=es">Google Scholar</a></li>   
-      </ul>
+    - [GitHub](https://github.com/aerodriguezsanchez)
+    - [ORCiD](https://orcid.org/0000-0003-3397-5261)
+    - [Mi blog personal: Blog materia](https://blogmateria.com)
+    - [Google Scholar](https://scholar.google.com.mx/citations?user=eo-JXcoAAAAJ&hl=es)
+
 <!---
 aerodriguezsanchez/aerodriguezsanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
