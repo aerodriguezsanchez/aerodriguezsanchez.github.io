@@ -8,7 +8,19 @@ layout: page
 
 Mi nombre es Alejandro, soy profesor, académico, e investigador dentro del área de la ingeniería mecánica y el análisis y la ingeniería de los materiales. A lo largo de mi carrera he tenido la oportunidad de practicar el diseño mecánico de estructuras y mecanismos (para motores de aeronaves y turbinas generadoras eléctricas), así como la investigación de nuevas técnicas para el análisis del comportamiento de materiales complejos, como las aleaciones metálicas (basadas en aluminio, titanio y acero), polímeros (elastómeros termoplásticos), y espumas poliméricas.
 
-Esta es mi página académica, por lo que aquí estaré subiendo algunas de mis clases, y las actualizaciones de las publicaciones más recientes.
+Esta es mi página académica, por lo que aquí estaré subiendo contenido de clases y las actualizaciones de las publicaciones más recientes. Algunas ligas a otros espacios míos en la red son:
+
+      <ul>
+      <li><a href="https://twitter.com/_arods">Twitter</a></li>
+      <li><a href="https://github.com/aerodriguezsanchez">GitHub</a></li>
+      <li><a href="https://orcid.org/0000-0003-3397-5261">ORCiD</a></li> 
+      <li><a href="https://blogmateria.com">Mi blog personal: Blog materia</a></li>
+      <li><a href="https://scholar.google.com.mx/citations?user=eo-JXcoAAAAJ&hl=es">Google Scholar</a></li>   
+      </ul>
+<!---
+aerodriguezsanchez/aerodriguezsanchez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 <!-- ## Features
 
