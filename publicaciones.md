@@ -1,3 +1,8 @@
+---
+title: "Publicaciones"
+layout: page
+---
+
 ### Publicaciones en artículos listados en el Journal Citation Reports
 
 - [A numerical study of the effect of the thickness parameter on machining distortion for aluminum alloy plates](https://iopscience.iop.org/article/10.1088/2631-8695/ac1848/meta). Engineering Research Express (2021).
