@@ -14,6 +14,8 @@ Algunos enlaces a otros espacios míos en la red son los siguientes:
 - [Mi blog personal: Blog materia](https://blogmateria.com)
 - [ResearchGate](https://www.researchgate.net/profile/Alejandro-Rodriguez-Sanchez-4)
 
+> "Nunc Minerva postea Palas Atenea"
+
 ![athena](assets/atena.jpg)
 
 
