@@ -2,9 +2,9 @@ title: "Dr. Alejandro E. Rodríguez-Sánchez"
 author: "Alejandro E. Rodríguez-Sánchez"
 description: ""#"Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "sp"
+lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%d %B, %Y"
+date_format: "%d %m, %Y"
 mathjax: true
 
 # Layout
