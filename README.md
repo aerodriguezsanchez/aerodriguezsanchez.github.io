@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-¡Hola! soy Alejandro, profesor, académico, e investigador dentro del área de la ingeniería mecánica y el análisis y la ingeniería de los materiales. Esta es mi página académica, en la cual estaré subiendo contenido de clases y las actualizaciones de las publicaciones más recientes de nuestro grupo de investigación y también aquellas que son personales. Sí eres alumno o alumnaa, no olvides revisar la opción de «cursos», donde vienen las ligas al contenido de tu clase.  
+¡Hola! soy Alejandro, profesor, académico, e investigador dentro del área de la ingeniería mecánica y el análisis y la ingeniería de los materiales. Esta es mi página académica, en la cual estaré subiendo contenido de clases y las actualizaciones de las publicaciones más recientes de nuestro grupo de investigación y también aquellas que son personales. Sí eres alumno/a, no olvides revisar la opción de «cursos», donde vienen las ligas al contenido de tu clase.  
 
 Algunos enlaces a otros espacios míos en la red son los siguientes:
 
