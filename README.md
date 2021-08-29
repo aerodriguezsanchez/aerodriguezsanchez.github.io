@@ -21,3 +21,4 @@ Algunos enlaces a otros espacios míos en la red son los siguientes:
 
 
 
+ <font size="1"> Alejandro E. Rodríguez-Sánchez. Todos los derechos reservados</font> 
