@@ -3,7 +3,6 @@ title: "Acerca de"
 permalink: "/about/"
 layout: page
 ---
-<a href="https://1.bp.blogspot.com/-eOWR0VuFVyw/Xkc0lM9um2I/AAAAAAAABnU/K7opMa2RwaInwCQXe4ZXSUq3Z81lptmygCPcBGAYYCw/s1600/unnamed.jpg" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><br /></a>
 
 ¡Hola! soy Alejandro, profesor, académico, e investigador dentro del área de la ingeniería mecánica y el análisis y la ingeniería de los materiales. Esta es mi página académica, y aquí estaré subiendo contenido de clases y las actualizaciones de las publicaciones más recientes de nuestro grupo de investigación y personales. Sí eres alumno/a, no olvides revisar la opción de «cursos», donde vienen las ligas al contenido de tu clase. 
 
