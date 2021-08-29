@@ -1,15 +1,15 @@
 title: "Dr. Alejandro E. Rodríguez-Sánchez"
 author: "Alejandro E. Rodríguez-Sánchez"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "" #"Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "\n\n\n\n"
 date_format: "%d-%m-%Y"
 mathjax: true
 
 # Layout
 
-show_excerpts: false        # show article excerpts on the home page
+show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false            # use a dark header
@@ -33,7 +33,7 @@ external:                  # shows a footer with social links - for available ic
 
 comments:
 disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
+isso_domain: ""         # see https://posativ.org/isso/
 
 plugins:
  - jekyll-feed
