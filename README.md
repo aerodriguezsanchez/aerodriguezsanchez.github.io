@@ -15,7 +15,7 @@ Algunos enlaces a otros espacios míos en la red son los siguientes:
 - [ResearchGate](https://www.researchgate.net/profile/Alejandro-Rodriguez-Sanchez-4)
 
 
-> *"Nunc Minerva postea Palas Atenea"*
+> *"Non quot quisque sit annos natus, sed quae sciat, refert!"[1](http://latindiscussion.com/forum/threads/it-is-not-age-that-matters-but-the-knowledge.31802/)*
 
 ![athena](assets/atena.jpg)
 
