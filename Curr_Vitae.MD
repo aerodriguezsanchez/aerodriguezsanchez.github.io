@@ -1,4 +1,8 @@
-# Curriculum Vitae
+---
+title: "Curriculum Vitae"
+permalink: "/CV/"
+layout: page
+---
 
 ## Educación
 
