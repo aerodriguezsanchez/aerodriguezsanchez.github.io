@@ -10,11 +10,11 @@
 
 ## Experiencia Profesional
 
-- **Universidad Panamericana:** Investigador postdoctoral y Profesor de asignatura (Agosto 2023 - Actualidad). Especializado en Mecánica de Cosserat, Diseño de Máquinas, y Dinámica.
+- **Universidad Panamericana:** Investigador postdoctoral y Profesor de asignatura (Agosto 2023 - Actualidad). Especializado en Mecánica de Cosserat. Asignaturas impartidas: Diseño de Máquinas, y Dinámica.
 - **Consejo Nacional de Ciencia y Tecnología:** Investigador Nacional, Nivel I (Octubre 2022 - Actualidad).
-- **Universidad de Guanajuato:** Investigador colaborador (Enero 2020 - Actualidad). Enfocado en redes neuronales artificiales y simulación de elementos finitos.
-- **Tecnológico Nacional de México:** Profesor (Enero 2022 - Junio 2023). Áreas: Procesos de manufactura, Administración del mantenimiento, Metrología.
-- **Universidad Politécnica de Chihuahua:** Profesor de Tiempo Completo (Octubre 2014 - Octubre 2017). Asignaturas: Mecánica de sólidos, Diseño mecánico, entre otras.
-- **Universidad del Valle de México:** Catedrático (Febrero 2015 - Enero 2016). Áreas: Ingeniería Asistida por Computadora, Diseño Mecánico.
+- **Universidad de Guanajuato:** Investigador colaborador (Enero 2020 - Actualidad). Investigación sobre modelado neuronal y mecánico de espumas poliméricas y polímeros de ingeniería. Enfocado en redes neuronales artificiales y simulación de elementos finitos. Asignaturas impartidas: redes neuronales artificiales.
+- **Tecnológico Nacional de México:** Profesor (Enero 2022 - Junio 2023). Materias impartidas: Procesos de manufactura, Administración del mantenimiento, Metrología.
+- **Universidad Politécnica de Chihuahua:** Profesor de Tiempo Completo (Octubre 2014 - Octubre 2017). Asignaturas impartidas: Mecánica de sólidos, Diseño mecánico, Diseño e Ingeniería Asistidos por Computadora (CAE),  entre otras.
+- **Universidad del Valle de México:** Catedrático (Febrero 2015 - Enero 2016). Asignaturas impartidas: Ingeniería Asistida por Computadora, Diseño Mecánico.
 - **GE Aerospace:** Jefe de proyectos de tecnología (Enero 2012 - Diciembre 2014). Gestión de innovación y desarrollo tecnológico para motores aeroespaciales.
 - **Grupo México:** Ingeniero mecánico (Enero 2010 - Enero 2011). Mantenimiento de equipos pesados y electromecánicos en mina subterránea.
