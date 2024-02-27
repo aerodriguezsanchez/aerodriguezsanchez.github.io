@@ -1,3 +1,31 @@
+## Alejandro E. Rodríguez-Sánchez, *Curriculum Vitae*
+
+## Educación
+
+## Universidad Panamericana
+**Posdoctorado. Área de mecánica.**  
+*Agosto 2023 - Agosto 2024*
+
+## Universidad de Guanajuato
+**Doctorado en Ingeniería Mecánica - Ph. D.**  
+*Junio 2021*  
+Titulación: Mención "Summa Cum Laude" y Reconocimiento a Trayectoria Sobresaliente
+
+## Universidad del Valle de México
+**Master of Business Administration - MBA, Finanzas, General**  
+*Enero 2015 - Diciembre 2016*  
+Titulación: Primer promedio (9.87/10). Mención Honorífica.
+
+## Tecnológico Nacional de México, campus CENIDET
+**Maestría en Ciencias en Ingeniería Mecánica, Ingeniería Mecánica**  
+*Junio 2011 - Junio 2013*  
+Titulación: Mención honorífica, primer promedio (99.54/100)
+
+## Tecnológico Nacional de México
+**Ingeniería en Electromecánica**  
+*Junio 2010*  
+Titulación: Mención honorífica por primer promedio generacional (97.4/100)
+
 ## Experiencia Profesional
 
 ## Universidad Panamericana
@@ -64,29 +92,3 @@ Chihuahua, Chihuahua, México
 - Gestión y prueba de rutinas de mantenimiento a equipos pesados de diesel y equipos electromecánicos de mina subterránea.  
 - Formación de personal de mecánica en temas de hidráulica básica y avanzada.  
 - Seguimiento a proyectos de mantenimiento industrial en mina subterránea.
-
-# Educación
-
-## Universidad Panamericana
-**Posdoctorado. Área de mecánica.**  
-*Agosto 2023 - Agosto 2024*
-
-## Universidad de Guanajuato
-**Doctorado en Ingeniería Mecánica - Ph. D.**  
-*Junio 2021*  
-Titulación: Mención "Summa Cum Laude" y Reconocimiento a Trayectoria Sobresaliente
-
-## Universidad del Valle de México
-**Master of Business Administration - MBA, Finanzas, General**  
-*Enero 2015 - Diciembre 2016*  
-Titulación: Primer promedio (9.87/10). Mención Honorífica.
-
-## Tecnológico Nacional de México, campus CENIDET
-**Maestría en Ciencias en Ingeniería Mecánica, Ingeniería Mecánica**  
-*Junio 2011 - Junio 2013*  
-Titulación: Mención honorífica, primer promedio (99.54/100)
-
-## Tecnológico Nacional de México
-**Ingeniería en Electromecánica**  
-*Junio 2010*  
-Titulación: Mención honorífica por primer promedio generacional (97.4/100)
