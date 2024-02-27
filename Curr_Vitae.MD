@@ -11,7 +11,7 @@ Zapopan, Jalisco, México
 
 ## Consejo Nacional de Ciencia y Tecnología
 **Investigador Nacional, Nivel I**  
-*oct. 2022 - actualidad (1 año 5 meses)*  
+*Oct. 2022 - actualidad (1 año 5 meses)*  
 Miembro del Sistema Nacional de Investigadores, Nivel I
 
 ## Universidad de Guanajuato
@@ -68,7 +68,7 @@ Chihuahua, Chihuahua, México
 *Agosto 2023 - Agosto 2024*
 
 ## Universidad de Guanajuato
-**Doctor of Philosophy - PhD, Mechanical Engineering**  
+**Doctorado en Ingeniería Mecánica - Ph. D.**  
 *Junio 2021*  
 Titulación: Mención "Summa Cum Laude" y Reconocimiento a Trayectoria Sobresaliente
 
@@ -77,7 +77,7 @@ Titulación: Mención "Summa Cum Laude" y Reconocimiento a Trayectoria Sobresali
 *Enero 2015 - Diciembre 2016*  
 Titulación: Primer promedio (9.87/10). Mención Honorífica.
 
-## Tecnológico Nacional de México campus CENIDET
+## Tecnológico Nacional de México, campus CENIDET
 **Maestría en Ciencias en Ingeniería Mecánica, Ingeniería Mecánica**  
 *Junio 2011 - Junio 2013*  
 Titulación: Mención honorífica, primer promedio (99.54/100)
