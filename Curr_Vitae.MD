@@ -64,7 +64,7 @@ Chihuahua, Chihuahua, México
 # Educación
 
 ## Universidad Panamericana
-**Posdoctorado en Cosserat Mechanics**  
+**Posdoctorado. Área de mecánica.**  
 *Agosto 2023 - Agosto 2024*
 
 ## Universidad de Guanajuato
