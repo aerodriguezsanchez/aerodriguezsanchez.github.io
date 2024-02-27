@@ -1,6 +1,4 @@
-#
-
-# Experiencia Profesional
+## Experiencia Profesional
 
 ## Universidad Panamericana
 **Investigador postdoctoral**  
