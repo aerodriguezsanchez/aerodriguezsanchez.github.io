@@ -1,10 +1,14 @@
-# Curriculum Vitae
-
 # Experiencia Profesional
 
 ## Universidad Panamericana
+**Investigador postdoctoral**  
+*ago. 2023 - actualidad *  
+Zapopan, Jalisco, México  
+- Cosserat Mechanics.
+
+## Universidad Panamericana
 **Profesor de asignatura**  
-*ago. 2023 - actualidad (7 meses)*  
+*ago. 2023 - actualidad *  
 Zapopan, Jalisco, México  
 - Diseño de Máquinas.  
 - Dinámica
