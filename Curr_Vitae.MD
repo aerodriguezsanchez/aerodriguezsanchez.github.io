@@ -3,7 +3,7 @@ title: "Curriculum Vitae"
 permalink: "/CV/"
 layout: page
 ---
-
+## Alejandro E. Rodríguez-Sánchez
 ## Educación
 
 - **Universidad Panamericana:** Posdoctorado en Mecánica (Agosto 2023 - Agosto 2024)
