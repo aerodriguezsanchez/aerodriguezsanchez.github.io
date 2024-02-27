@@ -12,6 +12,7 @@ Redes sociales y sitios relacionados:
 
 - [𝕏 (Twitter)](https://twitter.com/_arods)
 - [Medium](https://medium.com/@arods)
+- [LinkedIn](www.linkedin.com/in/alejandro-e-rodriguez-sanchez)
 - [GitHub](https://github.com/aerodriguezsanchez)
 - [ORCiD](https://orcid.org/0000-0003-3397-5261)
 - [Google Scholar](https://scholar.google.com.mx/citations?user=eo-JXcoAAAAJ&hl=es)
