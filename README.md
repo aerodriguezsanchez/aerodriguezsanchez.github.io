@@ -8,7 +8,7 @@ Alejandro E. Rodríguez-Sánchez ha sido investigador y profesor universitario d
 
 Actualmente es investigador en el área de la ingeniería y el análisis de materiales, y ha contribuido a la misma mediante el uso de métodos de inteligencia artificial para modelado y análisis de materiales complejos.
 
-Algunos enlaces a otros espacios míos en la red son los siguientes:
+Redes sociales y sitios relacionados:
 
 - [𝕏 (Twitter)](https://twitter.com/_arods)
 - [Medium](https://medium.com/@arods)
