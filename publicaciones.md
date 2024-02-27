@@ -42,6 +42,8 @@ Journal of Cellular Plastics (2019).
 
 ### Artículos en congresos
 
+- [Metamodelo para el índice de Tsai Wu en materiales compuestos laminados usando redes neuronales artificiales](https://somim.org.mx/memorias/memorias2023/articulos/M54-A2_50.pdf) XXIX Congreso Internacional Anual de la SOMIM (2023).
+- [Automatic Classification of Defective Welding in Automotive Parts using a Machine Learning approach](https://scholar.google.com.mx/citations?view_op=view_citation&hl=es&user=eo-JXcoAAAAJ&sortby=pubdate&citation_for_view=eo-JXcoAAAAJ:qxL8FJ1GzNcC) RIAO OPTILAS 2023 Congress (2023).
 - [Numerical Analysis of Machining Part Distortion in Aircraft Aluminum Structures](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/V006T06A011/1099113). ASME 2020 International Mechanical Engineering Congress and Exposition (2020).
 - [Modelado numérico de la respuesta a compresión de una Espuma de Polipropileno Expandido por Elementos Finitos](http://somim.org.mx/memorias/memorias2020/articulos/A2_28.pdf). XXVI Congreso Internacional Anual de la SOMIM (2020).
 
