@@ -23,4 +23,4 @@ Algunos enlaces a otros espacios míos en la red son los siguientes:
 
 
 
- <font size="1">Alejandro E. Rodríguez-Sánchez, 2023. © Todos los derechos reservados </font> 
+ <font size="1">Alejandro E. Rodríguez-Sánchez, 2024. © Todos los derechos reservados </font> 
