@@ -4,7 +4,9 @@ permalink: "/about/"
 layout: page
 ---
 
-¡Hola! soy Alejandro, profesor, académico, e investigador dentro del área de la ingeniería mecánica y el análisis y la ingeniería de los materiales. Esta es mi página académica, en la cual estaré subiendo contenido de clases y las actualizaciones de las publicaciones más recientes de nuestro grupo de investigación y también aquellas que son personales. Sí eres alumno/a, no olvides revisar la opción de «cursos», donde vienen las ligas al contenido de tu clase.  
+Alejandro E. Rodríguez-Sánchez ha sido investigador y profesor universitario de programas de ingeniería en diversas universidades e instituciones públicas y privadas de México, entre las que destacan la Universidad Panamericana y la Universidad de Guanajuato. Cuenta con el grado de Doctor en Ingeniería Mecánica con mención «Summa Cum Laude» por la Universidad de Guanajuato, es miembro del Sistema Nacional de Investigadores, Nivel I, del Consejo Nacional de Ciencia y Tecnología en México. 
+
+Actualmente es investigador en el área de la ingeniería y el análisis de materiales, y ha contribuido a la misma mediante el uso de métodos de inteligencia artificial para modelado y análisis de materiales complejos.
 
 Algunos enlaces a otros espacios míos en la red son los siguientes:
 
