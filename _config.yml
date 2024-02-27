@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
   - {title: Cursos, file: "cursos.md"}
   - {title: Publicaciones, file: "publicaciones.md"}
+  - {title: CV, file: "Curr_Vitae.MD"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
