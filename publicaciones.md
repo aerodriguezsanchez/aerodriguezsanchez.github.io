@@ -6,6 +6,7 @@ layout: page
 
 ### Artículos en revistas del Journal Citation Reports (JCR)
 
+- [Neural networks modeling of strain energy density and Tsai-Wu index in laminated composites](https://doi.org/10.1177/00219983241235856) Journal of Composite Materials (2024).
 - [Neural networks-based modeling of compressive stress in expanded polystyrene foams: A focus on bead size parameters](https://doi.org/10.1177/14644207231224172) Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications (2024).
 - [Modeling of Compressive Stress in AlSi10Mg Alloys Using Feed-forward Neural Networks](https://iopscience.iop.org/article/10.1088/2631-8695/ad2ab7/meta)  Engineering Research Express (2024).
 - [Modeling hysteresis in expanded polystyrene foams under compressive loads using feed-forward neural networks](https://doi.org/10.1177/0021955X231174362) Journal of Cellular Plastics (2023). 
@@ -27,6 +28,7 @@ Journal of Cellular Plastics (2019).
 
 ### Artículos en revistas arbitradas
 
+- [La inteligencia artificial y sus modelos de redes neuronales](https://erevistas.uacj.mx/ojs/index.php/cienciavital/index) Ciencia Vital Revista de Divulgación Científica de la UACJ (2024).
 - [Análisis estructural de un cortafuegos con refuerzos internos escalonados con compuestos de un avión utilitario](https://www.revistadyna.com/busqueda-NT/analisis-estructural-de-un-cortafuegos-con-refuerzos-internos-escalonados-con-compuestos-de-un-avion) DYNA New technologies (2019).
 - [Análisis de esfuerzos en eslabones impresos en 3D para un mecanismo de prótesis policéntrica de rodilla](https://utcjtheorema.wixsite.com/inicio/enero-junio-2016) UTCJ Theorema Revista Científica (2016).
 - [Determinación de los Parámetros de Denavit-Hartenberg para el Dedo Índice de la Mano](https://utcjtheorema.wixsite.com/inicio/enero-junio-2016) UTCJ Theorema Revista Científica (2016).
