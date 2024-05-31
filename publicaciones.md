@@ -5,7 +5,8 @@ layout: page
 ---
 
 ### Artículos en revistas del Journal Citation Reports (JCR)
-
+- [Neural network-driven interpretability analysis for evaluating compressive stress in polymer foams](https://doi.org/10.1177/0021955X241255102). Journal of Cellular Plastics (2024)
+- [La posibilidad de explicación científica a partir de modelos basados en redes neuronales artificiales](https://revistas.unbosque.edu.co/index.php/rcfc/issue/view/440). Revista Colombiana de Filosofía de la Ciencia, RCFC (2024).
 - [Neural networks modeling of strain energy density and Tsai-Wu index in laminated composites](https://doi.org/10.1177/00219983241235856) Journal of Composite Materials (2024).
 - [Neural networks-based modeling of compressive stress in expanded polystyrene foams: A focus on bead size parameters](https://doi.org/10.1177/14644207231224172) Proceedings of the Institution of Mechanical Engineers, Part L: Journal of Materials: Design and Applications (2024).
 - [Modeling of Compressive Stress in AlSi10Mg Alloys Using Feed-forward Neural Networks](https://iopscience.iop.org/article/10.1088/2631-8695/ad2ab7/meta)  Engineering Research Express (2024).
