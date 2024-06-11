@@ -14,7 +14,8 @@ layout: page
 
 ## Experiencia Profesional
 
-- **Universidad Panamericana:** Investigador postdoctoral y Profesor de asignatura (Agosto 2023 - Actualidad). Especializado en Mecánica de Cosserat. Asignaturas impartidas: Diseño de Máquinas, y Dinámica.
+- **Universidad Panamericana:** Profesor investigador, PI (Junio 2024 - Actualidad). 
+- **Universidad Panamericana:** Investigador postdoctoral y Profesor de asignatura (Agosto 2023 - Junio 2024). Especializado en Mecánica de Cosserat. Asignaturas impartidas: Diseño de Máquinas, y Dinámica.
 - **Consejo Nacional de Ciencia y Tecnología:** Investigador Nacional, Nivel I (Octubre 2022 - Actualidad).
 - **Universidad de Guanajuato:** Investigador colaborador (Enero 2020 - Actualidad). Investigación sobre modelado neuronal y mecánico de espumas poliméricas y polímeros de ingeniería. Enfocado en redes neuronales artificiales y simulación de elementos finitos. Asignaturas impartidas: redes neuronales artificiales.
 - **Tecnológico Nacional de México:** Profesor (Enero 2022 - Junio 2023). Materias impartidas: Procesos de manufactura, Administración del mantenimiento, Metrología.
