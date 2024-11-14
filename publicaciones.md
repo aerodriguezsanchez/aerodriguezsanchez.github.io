@@ -54,8 +54,8 @@ Journal of Cellular Plastics (2019).
 
 ### Tesis dirigidas
 
--**Herramienta para optimizar la orientación de fibras en el diseño de materiales compuestos laminados** Tesis de Doctorado en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Galvis Chacón, J.S. En proceso.
-- **Detección de defectos en micrografías de EPS por medio de visión por computadora** Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. En proceso.
+-<em>Herramienta para optimizar la orientación de fibras en el diseño de materiales compuestos laminados<\em> Tesis de Doctorado en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Galvis Chacón, J.S. En proceso.
+-<em>Detección de defectos en micrografías de EPS por medio de visión por computadora<\em> Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. En proceso.
 -**Modelo de red neuronal convolucional para clasificar rugosidad en películas metálicas delgadas por interferometría de speckle** Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumno: Magaña Barocio, C. N. Titulado.
 -**[Application of artificial neural networks models to estimate strain energy absorption in expanded polypropylene foams** Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Carmona Durán, S. Titulado.
 -**Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales** Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
