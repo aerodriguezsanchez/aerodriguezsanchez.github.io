@@ -30,6 +30,7 @@ Journal of Cellular Plastics (2019).
 
 ### Artículos en revistas arbitradas
 
+- [Optimización de la configuración de materiales compuestos laminados mediante redes neuronales y templado simulado](https://erevistas.uacj.mx/ojs/index.php/culcyt/article/view/6395) CULCYT Cultura Científica y Tecnológica (2024).
 - [La inteligencia artificial y sus modelos de redes neuronales](https://erevistas.uacj.mx/ojs/index.php/cienciavital/index) Ciencia Vital Revista de Divulgación Científica de la UACJ (2024).
 - [Análisis estructural de un cortafuegos con refuerzos internos escalonados con compuestos de un avión utilitario](https://www.revistadyna.com/busqueda-NT/analisis-estructural-de-un-cortafuegos-con-refuerzos-internos-escalonados-con-compuestos-de-un-avion) DYNA New technologies (2019).
 - [Análisis de esfuerzos en eslabones impresos en 3D para un mecanismo de prótesis policéntrica de rodilla](https://utcjtheorema.wixsite.com/inicio/enero-junio-2016) UTCJ Theorema Revista Científica (2016).
@@ -51,3 +52,13 @@ Journal of Cellular Plastics (2019).
 - [Numerical Analysis of Machining Part Distortion in Aircraft Aluminum Structures](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/V006T06A011/1099113). ASME 2020 International Mechanical Engineering Congress and Exposition (2020).
 - [Modelado numérico de la respuesta a compresión de una Espuma de Polipropileno Expandido por Elementos Finitos](http://somim.org.mx/memorias/memorias2020/articulos/A2_28.pdf). XXVI Congreso Internacional Anual de la SOMIM (2020).
 
+### Tesis dirigidas
+
+-[Herramienta para optimizar la orientación de fibras en el diseño de materiales compuestos laminados] Tesis de Doctorado en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Galvis Chacón, J.S. En proceso.
+- [Detección de defectos en micrografías de EPS por medio de visión por computadora] Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. En proceso.
+- [Modelo de red neuronal convolucional para clasificar rugosidad en películas metálicas delgadas por interferometría de speckle] Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumno: Magaña Barocio, C. N. Titulado.
+-[Application of artificial neural networks models to estimate strain energy absorption in expanded polypropylene foams] Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Carmona Durán, S. Titulado.
+-[Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales] Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
+-[Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación] Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
+- [Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación] Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+ 
