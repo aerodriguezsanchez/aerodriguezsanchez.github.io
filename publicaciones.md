@@ -38,7 +38,8 @@ Journal of Cellular Plastics (2019).
 
 ### Libros 
 
-- [Redes neuronales artificiales: principios y aplicaciones](https://www.amazon.com.mx/Redes-neuronales-artificiales-Principios-aplicaciones/dp/6072946674/) 2023.
+- [Redes neuronales artificiales: principios y aplicaciones](https://www.amazon.com.mx/Redes-neuronales-artificiales-Principios-aplicaciones/dp/6072946674/) 2023. Edit. Amazon Books.
+- *Hiperelasticidad: Introducción al modelado mecánico de elastómeros*. Próximamente. 
 
 ### Capítulos de libro
 
