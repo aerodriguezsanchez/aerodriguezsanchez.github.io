@@ -5,6 +5,9 @@ layout: page
 ---
 
 ### Artículos en revistas del Journal Citation Reports (JCR)
+- [A Pseudo-elastic Damage-based Model for Compressive Stress in Expanded Polystyrene Foams](). Theoretical and Applied Mechanics Letters (2025)
+- [Experimental Evaluation of Energy Absorption and Hysteresis in Expanded Polystyrene Foams under Repeated Compressive Loading](). Journal of Cellular Plastics (2025)
+- [Deep Learning Automated Measurements of Expanded Polystyrene Beads Size using Low-resolution Micrography](). Microscopy Research and Technique (2025)
 - [Evidential neural network for tensile stress uncertainty quantification in thermoplastic elastomers](https://doi.org/10.1007/s00521-024-10320-0).  Neural Computing and Applications (2024)
 - [Neural network-driven interpretability analysis for evaluating compressive stress in polymer foams](https://doi.org/10.1177/0021955X241255102). Journal of Cellular Plastics (2024)
 - [La posibilidad de explicación científica a partir de modelos basados en redes neuronales artificiales](https://revistas.unbosque.edu.co/index.php/rcfc/issue/view/440). Revista Colombiana de Filosofía de la Ciencia, RCFC (2024).
