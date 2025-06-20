@@ -6,6 +6,7 @@ layout: page
 ## Alejandro E. Rodríguez-Sánchez
 ## Educación
 
+- **Universidad Panamericana:** Especialidad en Antropología y Ética (Agosto 2025 - Mayo 2026)
 - **Universidad Panamericana:** Posdoctorado en Mecánica (Agosto 2023 - Agosto 2024)
 - **Universidad de Guanajuato:** Doctorado en Ingeniería Mecánica - Ph.D. (Junio 2021). Mención "Summa Cum Laude" y Reconocimiento a Trayectoria Sobresaliente.
 - **Universidad del Valle de México:** MBA en Finanzas, General (Enero 2015 - Diciembre 2016). Primer promedio (9.87/10), Mención Honorífica.
