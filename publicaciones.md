@@ -5,6 +5,7 @@ layout: page
 ---
 
 ### Artículos en revistas del Journal Citation Reports (JCR)
+- [Experimental Characterization and Tensile Mechanical Modeling of an Opuntia Velutina Biopolymer](). Polymer Bulletin (2025)
 - [Comparative Assessment of Physics-Informed Recurrent Networks for Modeling Rate- and Density-Dependent Compression in Expanded Polystyrene Foams](). Journal of Materials: Design and Applications (2025)
 - [A Pseudo-elastic Damage-based Model for Compressive Stress in Expanded Polystyrene Foams](). Theoretical and Applied Mechanics Letters (2025)
 - [Experimental Evaluation of Energy Absorption and Hysteresis in Expanded Polystyrene Foams under Repeated Compressive Loading](). Journal of Cellular Plastics (2025)
