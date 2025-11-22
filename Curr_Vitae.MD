@@ -9,6 +9,8 @@ layout: page
 **Email:** aerodriguez(at)up.edu.mx 
 [LinkedIn](https://www.linkedin.com/in/alejandro-e-rodriguez-sanchez/) | [Google Scholar](https://scholar.google.com.mx/citations?user=eo-JXcoAAAAJ&hl) | [ORCID](https://orcid.org/0000-0003-3397-5261)
 
+**Investigador Nacional (SNI I) y Doctor en Ingeniería Mecánica con formación en finanzas y negocios MBA.** Especialista en Inteligencia Artificial aplicada a materiales y gestión de innovación tecnológica. Trayectoria que integra rigor científico, experiencia industrial aeroespacial (GE) y una sólida visión ética y de negocios.
+
 ### Idiomas
 - **Español:** Nativo.
 - **Inglés:** Nivel Nativo (C2).
@@ -114,6 +116,7 @@ Journal of Cellular Plastics (2019).
 7. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
 8. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
 9. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+
 
 
 
