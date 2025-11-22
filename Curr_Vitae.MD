@@ -41,7 +41,7 @@ layout: page
 ### Artículos en revistas del Journal Citation Reports (JCR)
 - [Experimental Characterization and Tensile Mechanical Modeling of an Opuntia Velutina Biopolymer](). Polymer Bulletin (2025)
 - [Comparative Assessment of Physics-Informed Recurrent Networks for Modeling Rate- and Density-Dependent Compression in Expanded Polystyrene Foams](https://doi.org/10.1177/14644207251361615). Journal of Materials: Design and Applications (2025)
-- [A Pseudo-elastic Damage-based Model for Compressive Stress in Expanded Polystyrene Foams](). Theoretical and Applied Mechanics Letters (2025)
+- [A Pseudo-elastic Damage-based Model for Compressive Stress in Expanded Polystyrene Foams](https://doi.org/10.1016/j.taml.2025.100637). Theoretical and Applied Mechanics Letters (2025)
 - [Experimental Evaluation of Energy Absorption and Hysteresis in Expanded Polystyrene Foams under Repeated Compressive Loading](). Journal of Cellular Plastics (2025)
 - [Deep Learning Automated Measurements of Expanded Polystyrene Beads Size using Low-resolution Micrography](https://doi.org/10.1002/jemt.70019). Microscopy Research and Technique (2025)
 - [Evidential neural network for tensile stress uncertainty quantification in thermoplastic elastomers](https://doi.org/10.1007/s00521-024-10320-0).  Neural Computing and Applications (2024)
@@ -83,7 +83,7 @@ Journal of Cellular Plastics (2019).
 ### Capítulos de libro
 
 - [Modeling Planar Flexible Linkages with Cosserat Rods and Neural Networks](10.1007/978-3-032-10862-3_14) Multibody Mechatronic Systems (MuSMe 2025).
-- [Design, Construction and Validation of a Vibration Table with Distributed Load Cells for Dynamic Measurement]([10.1007/978-3-032-10862-3_14](https://doi.org/10.1007/978-3-032-10862-3_26) Multibody Mechatronic Systems (MuSMe 2025).
+- [Design, Construction and Validation of a Vibration Table with Distributed Load Cells for Dynamic Measurement](https://doi.org/10.1007/978-3-032-10862-3_26) Multibody Mechatronic Systems (MuSMe 2025).
 - [Análisis modal de un conjunto pistón-biela de un motor de combustión interna](https://www.researchgate.net/profile/Carlos-Luna-Ortega/publication/318950224_Investigacion_Aplicada_de_las_Universidades_Politecnicas_en_el_marco_del_XV_aniversario_del_Subsistema/links/59c47e85a6fdccc7190db444/Investigacion-Aplicada-de-las-Universidades-Politecnicas-en-el-marco-del-XV-aniversario-del-Subsistema.pdf). Libro: Investigación Aplicada de las Universidades Politécnicas (2016).
 
 
@@ -104,6 +104,7 @@ Journal of Cellular Plastics (2019).
 7. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
 8. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
 9. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+
 
 
 
