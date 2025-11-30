@@ -106,6 +106,10 @@ Journal of Cellular Plastics (2019).
 - [Numerical Analysis of Machining Part Distortion in Aircraft Aluminum Structures](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/V006T06A011/1099113). ASME 2020 International Mechanical Engineering Congress and Exposition (2020).
 - [Modelado numérico de la respuesta a compresión de una Espuma de Polipropileno Expandido por Elementos Finitos](http://somim.org.mx/memorias/memorias2020/articulos/A2_28.pdf). XXVI Congreso Internacional Anual de la SOMIM (2020).
 
+### Propiedad industrial
+
+1. *Aparato portátil para inspección de defectos en materiales celulares*. Solicitud de PATENTE. Instituto Mexicano de la Propiedad Industrial. Estado: en trámite. Fecha de solicitud: 30/sep/2024.
+
 ### Tesis dirigidas
 
 1. *Herramienta para optimizar la orientación de fibras en el diseño de materiales compuestos laminados*. Tesis de Doctorado en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Galvis Chacón, J.S. Titulado.
@@ -116,6 +120,7 @@ Journal of Cellular Plastics (2019).
 7. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
 8. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
 9. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+
 
 
 
