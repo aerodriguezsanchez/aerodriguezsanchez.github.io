@@ -108,7 +108,7 @@ Journal of Cellular Plastics (2019).
 
 ### Propiedad industrial
 
-1. *Aparato portátil para inspección de defectos en materiales celulares*. Solicitud de PATENTE. Instituto Mexicano de la Propiedad Industrial. Estado: en trámite. Fecha de solicitud: 30/sep/2024.
+1. *Aparato portátil para inspección de defectos en materiales celulares*. Solicitud de PATENTE. Instituto Mexicano de la Propiedad Industrial (IMPI). Estado: en trámite. Fecha de solicitud: 30/sep/2024. Número de Solicitud: MX/a/2024/012109
 
 ### Tesis dirigidas
 
@@ -120,6 +120,7 @@ Journal of Cellular Plastics (2019).
 7. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
 8. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
 9. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+
 
 
 
