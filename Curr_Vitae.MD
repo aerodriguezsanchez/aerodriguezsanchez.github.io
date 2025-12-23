@@ -50,6 +50,11 @@ layout: page
   - *Monto Aprobado:* 10,000 USD.
   - *Año:* 2024.
 
+### Libros 
+
+- [Redes neuronales artificiales: principios y aplicaciones](https://www.amazon.com.mx/Redes-neuronales-artificiales-Principios-aplicaciones/dp/6072946674/) 2023. Edit. Amazon Books.
+- [Hiperelasticidad: Introducción al modelado mecánico de elastómeros](https://www.eunsa.es/libro/hiperelasticidad-introduccion-al-modelado-mecanico-de-elastomeros_169270/). EUNSA, diciembre de 2025.
+
 ### Artículos en revistas del Journal Citation Reports (JCR)
 - [Experimental Characterization and Tensile Mechanical Modeling of an Opuntia Velutina Biopolymer](). Polymer Bulletin (2025)
 - [Comparative Assessment of Physics-Informed Recurrent Networks for Modeling Rate- and Density-Dependent Compression in Expanded Polystyrene Foams](https://doi.org/10.1177/14644207251361615). Journal of Materials: Design and Applications (2025)
@@ -87,11 +92,6 @@ Journal of Cellular Plastics (2019).
 - [Análisis de esfuerzos en eslabones impresos en 3D para un mecanismo de prótesis policéntrica de rodilla](https://utcjtheorema.wixsite.com/inicio/enero-junio-2016) UTCJ Theorema Revista Científica (2016).
 - [Determinación de los Parámetros de Denavit-Hartenberg para el Dedo Índice de la Mano](https://utcjtheorema.wixsite.com/inicio/enero-junio-2016) UTCJ Theorema Revista Científica (2016).
 
-### Libros 
-
-- [Redes neuronales artificiales: principios y aplicaciones](https://www.amazon.com.mx/Redes-neuronales-artificiales-Principios-aplicaciones/dp/6072946674/) 2023. Edit. Amazon Books.
-- [Hiperelasticidad: Introducción al modelado mecánico de elastómeros]. EUNSA, 2026. Próximamente. 
-
 ### Capítulos de libro
 
 - [Modeling Planar Flexible Linkages with Cosserat Rods and Neural Networks](10.1007/978-3-032-10862-3_14) Multibody Mechatronic Systems (MuSMe 2025).
@@ -120,6 +120,7 @@ Journal of Cellular Plastics (2019).
 7. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
 8. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
 9. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+
 
 
 
