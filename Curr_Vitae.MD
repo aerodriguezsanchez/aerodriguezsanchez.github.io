@@ -17,7 +17,6 @@ layout: page
 - **Latín:** Nivel Básico (Enfoque académico).
 
 ## Educación
-
 - **Universidad Panamericana:** Especialidad en Antropología y Ética (Agosto 2025 - Mayo 2026)
 - **Universidad Panamericana:** Posdoctorado en Mecánica (Agosto 2023 - Agosto 2024)
 - **Universidad de Guanajuato:** Doctorado en Ingeniería Mecánica - Ph.D. (Junio 2021). Mención "Summa Cum Laude" y Reconocimiento a Trayectoria Sobresaliente.
@@ -120,6 +119,7 @@ Journal of Cellular Plastics (2019).
 7. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
 8. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
 9. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+
 
 
 
