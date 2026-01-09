@@ -55,6 +55,7 @@ layout: page
 - [Hiperelasticidad: Introducción al modelado mecánico de elastómeros](https://www.eunsa.es/libro/hiperelasticidad-introduccion-al-modelado-mecanico-de-elastomeros_169270/). EUNSA, diciembre de 2025.
 
 ### Artículos en revistas del Journal Citation Reports (JCR)
+- [Uncertainty quantification of compressive stress response in expanded polystyrene foams using evidential neural networks](). Cellular Polymers (2026)
 - [Experimental Characterization and Tensile Mechanical Modeling of an Opuntia Velutina Biopolymer](). Polymer Bulletin (2025)
 - [Comparative Assessment of Physics-Informed Recurrent Networks for Modeling Rate- and Density-Dependent Compression in Expanded Polystyrene Foams](https://doi.org/10.1177/14644207251361615). Journal of Materials: Design and Applications (2025)
 - [A Pseudo-elastic Damage-based Model for Compressive Stress in Expanded Polystyrene Foams](https://doi.org/10.1016/j.taml.2025.100637). Theoretical and Applied Mechanics Letters (2025)
@@ -109,16 +110,26 @@ Journal of Cellular Plastics (2019).
 
 1. *Aparato portátil para inspección de defectos en materiales celulares*. Solicitud de PATENTE. Instituto Mexicano de la Propiedad Industrial (IMPI). Estado: en trámite. Fecha de solicitud: 30/sep/2024. Número de Solicitud: MX/a/2024/012109
 
-### Tesis dirigidas
+## Tesis dirigidas
 
-1. *Herramienta para optimizar la orientación de fibras en el diseño de materiales compuestos laminados*. Tesis de Doctorado en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Galvis Chacón, J.S. Titulado.
+### Tesis de doctorado
+1. *Caracterización mecánica automatizada de materiales blandos mediante visión por computadora e identificación inversa*. Tesis de Doctorado en Ingeniería, Universidad Panamericana. Alumna: Gómez Álvarez, D. En proceso.
+2. *Herramienta para optimizar la orientación de fibras en el diseño de materiales compuestos laminados*. Tesis de Doctorado en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Galvis Chacón, J.S. Titulado.
+
+### Tesis de maestría
+
+1. *Analysis and characterization of discontinuity distribution in EPS foams*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Covarrubias Hernández, C. En proceso.
 2. *Detección de defectos en micrografías de EPS por medio de visión por computadora*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
-3. *Análisis estadístico del perfil de rugosidad de películas delgadas de oro*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumna: González Urquidez, L. M. Titulada
-5. *Modelo de red neuronal convolucional para clasificar rugosidad en películas metálicas delgadas por interferometría de speckle*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumno: Magaña Barocio, C. N. Titulado.
-6. *Application of artificial neural networks models to estimate strain energy absorption in expanded polypropylene foams*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Carmona Durán, S. Titulado.
-7. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
-8. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
-9. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+3. *Application of artificial neural networks models to estimate strain energy absorption in expanded polypropylene foams*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Carmona Durán, S. Titulado.
+4. *Investigación de la respuesta del esfuerzo a compresión del EPS considerando la morfología de las perlas utilizando redes neuronales*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Pech, M. I. Titulado.
+5. *Análisis numérico de geometrías de EPP para mejorar su absorción de energía de deformación*. Tesis de Maestría en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Barrera Fernández, J.A. Titulado.
+
+### Tesis de licenciatura
+
+1. *Análisis estadístico del perfil de rugosidad de películas delgadas de oro*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumna: González Urquidez, L. M. Titulada
+2. *Modelo de red neuronal convolucional para clasificar rugosidad en películas metálicas delgadas por interferometría de speckle*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumno: Magaña Barocio, C. N. Titulado.
+3. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
+
 
 
 
