@@ -55,6 +55,8 @@ layout: page
 - [Hiperelasticidad: Introducción al modelado mecánico de elastómeros](https://www.eunsa.es/libro/hiperelasticidad-introduccion-al-modelado-mecanico-de-elastomeros_169270/). EUNSA, diciembre de 2025.
 
 ### Artículos en revistas del Journal Citation Reports (JCR)
+- [Numerical Analysis of an Opuntia-Based Biopolymer: Hyperelastic Calibration and FEA Implementation](). (2026)
+- [Experimental Evaluation of Energy Absorption and Hysteresis in Expanded Polystyrene Foams under Repeated Compressive Loading](). Journal of Cellular Plastics (2026).
 - [Ensemble Learning for Mechanical Behavior Modeling of 3D-Printed PLA under Tension](). MRS Communications (2026).
 - [Uncertainty quantification of compressive stress response in expanded polystyrene foams using evidential neural networks](https://doi.org/10.1177/02624893261416639). Cellular Polymers (2026)
 - [Experimental Characterization and Tensile Mechanical Modeling of an Opuntia Velutina Biopolymer](https://link.springer.com/article/10.1007/s00289-025-06144-0). Polymer Bulletin (2025)
@@ -131,6 +133,7 @@ Journal of Cellular Plastics (2019).
 1. *Análisis estadístico del perfil de rugosidad de películas delgadas de oro*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumna: González Urquidez, L. M. Titulada
 2. *Modelo de red neuronal convolucional para clasificar rugosidad en películas metálicas delgadas por interferometría de speckle*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumno: Magaña Barocio, C. N. Titulado.
 3. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
+
 
 
 
