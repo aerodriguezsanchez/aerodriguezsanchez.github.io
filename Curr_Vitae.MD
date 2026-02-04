@@ -113,6 +113,7 @@ Journal of Cellular Plastics (2019).
 
 1. *Aparato portátil para inspección de defectos en materiales celulares*. Solicitud de PATENTE. Instituto Mexicano de la Propiedad Industrial (IMPI). Estado: en trámite. Fecha de solicitud: 30/sep/2024. Número de Solicitud: MX/a/2024/012109
 2. *Camilla de Expulsión para Partos de Emergencia*. Solicitud de MODELO DE UTILIDAD. Instituto Mexicano de la Propiedad Industrial (IMPI). Estado: en trámite. Fecha de solicitud: 25/noviembre/2025. Número de Solicitud: MX/u/2025/000666.
+3. *Método automático para el análisis morfológico de perlas en espumas poliméricas*. Solicitud de PATENTE. Instituto Mexicano de la Propiedad Industrial (IMPI). Estado: en trámite. Fecha de solicitud: 30/sep/2024. Número de Solicitud: MX/a/2025/015355
 
 ## Tesis dirigidas
 
@@ -133,6 +134,7 @@ Journal of Cellular Plastics (2019).
 1. *Análisis estadístico del perfil de rugosidad de películas delgadas de oro*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumna: González Urquidez, L. M. Titulada
 2. *Modelo de red neuronal convolucional para clasificar rugosidad en películas metálicas delgadas por interferometría de speckle*. Tesis de Licenciatura en Ciencias Físico Matemáticas, Universidad Michoacana de San Nicólas de Hidalgo. Alumno: Magaña Barocio, C. N. Titulado.
 3. *Caracterización de espuma de polipropileno bajo cargas compresivas a diferentes razones de deformación*. Tesis de Licenciatura en Ingeniería Mecánica, Universidad de Guanajuato. Alumno: Corona Ríos, O. J. Titulado.
+
 
 
 
