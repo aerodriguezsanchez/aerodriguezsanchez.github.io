@@ -55,7 +55,7 @@ layout: page
 - [Hiperelasticidad: Introducción al modelado mecánico de elastómeros](https://www.eunsa.es/libro/hiperelasticidad-introduccion-al-modelado-mecanico-de-elastomeros_169270/). EUNSA, diciembre de 2025.
 
 ### Artículos en revistas del Journal Citation Reports (JCR)
-- [Numerical Analysis of an Opuntia-Based Biopolymer: Hyperelastic Calibration and FEA Implementation](). (2026)
+- [Numerical Analysis of an Opuntia-Based Biopolymer: Hyperelastic Calibration and FEA Implementation](). Journal of Materials: Design and Applications (2026)
 - [Experimental Evaluation of Energy Absorption and Hysteresis in Expanded Polystyrene Foams under Repeated Compressive Loading](). Journal of Cellular Plastics (2026).
 - [Ensemble Learning for Mechanical Behavior Modeling of 3D-Printed PLA under Tension](). MRS Communications (2026).
 - [Uncertainty quantification of compressive stress response in expanded polystyrene foams using evidential neural networks](https://doi.org/10.1177/02624893261416639). Cellular Polymers (2026)
